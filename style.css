@@ -1,0 +1,17 @@
+section {
+    padding: 60px 0;
+}
+.hero-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.664), rgba(224, 216, 216, 0.836)), url("images/glitch.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: white;
+    position: relative;
+  }
+  
+  h1{
+      text-align: center;
+  }
+  
